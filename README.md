@@ -5,7 +5,7 @@
 > iOS Dinamic cells
 
 ## Preview
-![](https://github.com/AlanCasasArevalo/CustomCellWithXIB/blob/master/Picture.png)
+![](https://github.com/AlanCasasArevalo/DinamicCells/blob/master/Picture.png)
 
 ## This simple app is an example
 
