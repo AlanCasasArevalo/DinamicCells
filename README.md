@@ -1,4 +1,3 @@
-# GoToShopping
 
 ## Introduction
 
